@@ -1,0 +1,27 @@
+# Plone Development Environment
+#
+# Zope Instance
+bin
+coverage
+develop-eggs
+parts
+products
+src
+var
+.installed.cfg
+.mr.developer.cfg
+#
+# Python compiled files
+*.py[co]
+#
+# Python eggs
+*.egg-info
+*.egg
+build
+#
+# Paster
+Paste*
+#
+# Vi
+*.swp
+*.swo
